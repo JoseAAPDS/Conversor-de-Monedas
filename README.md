@@ -45,6 +45,7 @@ Historial de las conversiones realizadas con la fecha y hora en que fueron reali
 
   ### José Armando Acevedo
   
+   [LinkedIn](www.linkedin.com/in/josé-acevedo-pilz-136179246)
   
 
 
