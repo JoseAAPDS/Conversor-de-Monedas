@@ -14,12 +14,12 @@ public class Principal {
         while (true) {
             System.out.println(usuario.getMenu());
             try {
-                System.out.println("Elije una opción para moneda1");
+                System.out.println("Elige una opción para moneda1");
                 opcion1 = usuario.validarOpcion(ingresoTeclado.nextInt());
                 if(opcion1 == 9){
                     break;
                 }
-                System.out.println("Elije una opción para moneda2");
+                System.out.println("Elige una opción para moneda2");
                 opcion2 = usuario.validarOpcion(ingresoTeclado.nextInt());
                 if(opcion2 == 9){
                     break;
