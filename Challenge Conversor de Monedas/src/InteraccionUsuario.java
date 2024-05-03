@@ -18,7 +18,7 @@ public class InteraccionUsuario {
             *********************************************** 
             """;
     private Scanner ingresoTeclado = new Scanner(System.in);
-    private String direccionBase = "https://v6.exchangerate-api.com/v6/cf9583a4a971925790012e41/pair";
+    private String direccionBase = "https://v6.exchangerate-api.com/v6/" + ${USER_KEY} + "/pair";
     private String[] monedas = {"ARS","BRL","COP","USD","GTQ","MXN","EUR","GBP"};
 
 
